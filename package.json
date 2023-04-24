@@ -1,0 +1,16 @@
+{
+  "name": "pdftoword",
+  "version": "1.0.0",
+  "description": "pdf to word converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rolex",
+  "license": "ISC",
+  "dependencies": {
+    "groupdocs-conversion-cloud": "^23.4.0",
+    "pdf-lib": "^1.17.1",
+    "pdf-officegen": "^3.0.0"
+  }
+}
